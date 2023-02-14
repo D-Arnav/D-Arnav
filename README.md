@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D-Arnav
+- 👋 Hi, I’m @Quokka124
 - 👀 I’m interested in ... Software Development, Mathematics, and AI
 - 🌱 I’m currently learning ... Artificial Inteligence and Data Science in my degree program
 - 💞️ I’m looking to collaborate on ... projects related to Software and AI
