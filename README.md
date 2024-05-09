@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Arnav
+- 
 - 👀 I’m interested in ... Software Development, Mathematics, Quantum Physics, and Machine Learning
 - 🌱 I’m currently learning ... Artificial Inteligence and Data Science in my degree program
-- 💞️ I’m looking to collaborate on ... projects related to Software dev, Computer Vision, and ML
+- 💞️ I’m looking to collaborate on ... projects related to general development, deep learning, computer vision, etc.
 - 📫 How to reach me ... my email is ... 2110080023@klh.edu.in
 
 <!---
